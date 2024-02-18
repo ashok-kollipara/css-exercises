@@ -1,0 +1,22 @@
+/* Simpler solution of ak
+button {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+} */
+
+/* group selectors required from assignment */
+.yep,
+.nope {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.yep {
+    background-color: #000000;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.nope {
+    background-color: rgb(252, 235, 3);
+}
